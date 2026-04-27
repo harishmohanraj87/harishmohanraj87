@@ -30,11 +30,10 @@ Hi 👋, I'm Harish Mohanraj
 ---
 
 ## 🌱 Currently Learning
-- Advanced Network Pentesting  
-- Web Exploitation (OWASP Top 10)  
-- Wi-Fi Attacks (MITM, ARP Spoofing, DNS Spoofing)  
-- Bug Bounty Methodology & CTFs  
-
+- Offensive Security (Web Exploitation, Bug Bounty Techniques)  
+- Defensive Security (Monitoring, Detection & Incident Response Basics)  
+- Governance, Risk & Compliance (GRC Fundamentals & Risk Assessment)  
+- Wi-Fi Attacks (MITM, ARP Spoofing, DNS Spoofing)
 ---
 
 ## 💬 Ask Me About
