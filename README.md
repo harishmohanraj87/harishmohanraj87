@@ -1,6 +1,6 @@
 <div align="center">
 
-# Harish MohanRaj
+# Harish Mohanraj
 
 ### Cybersecurity Researcher • Security Engineer • Ethical Hacker
 
