@@ -1,197 +1,129 @@
 <div align="center">
 
-# Harish Mohanraj
+# HARISH MOHANRAJ
 
-### Cybersecurity Researcher • Security Engineer • Ethical Hacker
+**Cybersecurity Researcher · Security Engineer · Ethical Hacker**
 
-Focused on vulnerability research, offensive security, threat detection, security automation, and building secure systems.
+*CS student @ D.Y. Patil International University, specializing in Cybersecurity*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Cybersecurity+Researcher;Security+Engineer;Ethical+Hacker;Offensive+Security;Threat+Detection;Security+Automation;Building+Secure+Systems" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-mohanraj)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishmohanraj87@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=harishmohanraj87&style=for-the-badge&color=blueviolet)
 
 </div>
 
 ---
 
-# About Me
+## Who I Am
 
-I am a Computer Science student specializing in Cybersecurity at D.Y. Patil International University.
+I break things to understand them — then build better ones.
 
-My interests span offensive security, vulnerability research, cloud security, threat detection, and security engineering.
+I'm a cybersecurity researcher focused on offensive security, vulnerability research, and detection engineering. My work lives at the intersection of deep technical curiosity and practical impact: finding weaknesses before adversaries do, automating security workflows, and contributing to a more resilient internet.
 
-I enjoy building practical security solutions, conducting hands-on experimentation, and continuously improving my understanding of modern attack and defense techniques.
-
-My long-term objective is to become a world-class cybersecurity researcher and build technologies that strengthen cyber resilience on a global scale.
+My long-term goal is to run a cybersecurity company that solves real-world security challenges at scale.
 
 ---
 
-# Current Focus
+## What I'm Working On
 
-- Vulnerability Research
-- Ethical Hacking
-- Penetration Testing
-- Security Engineering
-- Security Automation
-- Threat Detection & Response
-- Cloud Security
-- Cybersecurity Research
+| Area | Focus |
+|---|---|
+| 🔴 Offensive Security | Penetration testing, ethical hacking, exploit development |
+| 🔵 Detection & Response | Threat detection, SOAR, incident containment |
+| ☁️ Cloud Security | Misconfigurations, IAM weaknesses, cloud-native attacks |
+| 🔬 Research | Vulnerability research, malware analysis, AI security |
 
 ---
 
-# Research Interests
+## Featured Projects
 
-```text
-Web Application Security
-Cloud Security
-Threat Intelligence
-Detection Engineering
-Malware Analysis
-Digital Forensics
-AI Security
-Security Automation
+### ⚡ SOAR Incident Containment Engine
+Automated incident response platform that reduces mean time to contain (MTTC) across security operations. Built to handle alert triage, evidence collection, and containment actions without human bottlenecks.
+
+### 🛠 Security Automation Toolkit
+Python framework for streamlining repetitive security workflows — from recon to reporting. Designed for speed and extensibility.
+
+### 📡 Threat Intelligence Dashboard
+End-to-end platform for collecting, enriching, and visualizing threat intelligence data. Aggregates IOCs and maps them to actionable context.
+
+### 🔍 Vulnerability Assessment Framework
+Modular toolkit for identifying and validating security weaknesses across web applications and infrastructure.
+
+### 🌐 Network Traffic Analysis System
+Network monitoring solution built to surface anomalous activity through behavioral baselining and signature matching.
+
+---
+
+## Technical Skills
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Security Tools**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white)
+
+**Infrastructure**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Research Interests
+
+`Web Application Security` · `Cloud Security` · `Threat Intelligence` · `Detection Engineering` · `Malware Analysis` · `Digital Forensics` · `AI Security` · `Security Automation`
+
+---
+
+## Skill Progress
+
+```
+Ethical Hacking          ████████████████████░░   85%
+Bug Bounty Hunting       ████████████████░░░░░░   70%
+Cloud Security           ██████████████░░░░░░░░   60%
+Detection Engineering    ████████████░░░░░░░░░░   50%
+Malware Analysis         ██████████░░░░░░░░░░░░   40%
+Security Research        ████████░░░░░░░░░░░░░░   35%
 ```
 
 ---
 
-# Technical Skills
+## GitHub Stats
 
-## Programming
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus)
-![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harishmohanraj87&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishmohanraj87&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=harishmohanraj87&theme=tokyonight&hide_border=true"/>
 
-## Security
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux)
-![Wireshark](https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-111111?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-111111?style=for-the-badge)
+</div>
 
 ---
 
-## Infrastructure
+## Professional Goals
 
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-
----
-
-# Featured Projects
-
-## SOAR Incident Containment Engine
-
-Automated incident response and containment platform designed to improve operational efficiency and reduce response times.
-
----
-
-## Security Automation Toolkit
-
-Python-based security automation framework for streamlining security workflows.
-
----
-
-## Threat Intelligence Dashboard
-
-Threat intelligence collection, enrichment, and visualization platform.
-
----
-
-## Vulnerability Assessment Framework
-
-Toolkit designed to assist in identifying and validating security weaknesses.
-
----
-
-## Network Traffic Analysis System
-
-Network monitoring and analysis solution focused on detecting anomalous activity.
-
----
-
-# Learning Roadmap
-
-```text
-[█████████░] Ethical Hacking
-[████████░░] Bug Bounty Hunting
-[███████░░░] Cloud Security
-[██████░░░░] Detection Engineering
-[█████░░░░░] Malware Analysis
-[████░░░░░░] Security Research
-```
-
----
-
-# GitHub Statistics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harishmohanraj87&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishmohanraj87&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# Contribution Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harishmohanraj87&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-# Contribution Activity
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harishmohanraj87&theme=github_dark"/>
-
-</p>
-
----
-
-# Professional Goals
-
-- Conduct impactful cybersecurity research
-- Publish technical research and projects
-- Contribute to open-source security initiatives
-- Secure international cybersecurity internships
-- Develop advanced security engineering skills
-- Build a cybersecurity company focused on solving real-world security challenges
-
----
-
-# Professional Links
-
-💼 LinkedIn
-
-www.linkedin.com/in/harish-mohanraj
-
-📧 Email
-
-harishmohanraj87@gmail.com
-
-🌐 Portfolio
-
-Coming Soon
-
----
-
-# Philosophy
-
-> Security is not only about discovering vulnerabilities. It is about understanding systems deeply enough to defend and improve them.
+- [ ] Publish original vulnerability research
+- [ ] Land an international cybersecurity internship
+- [ ] Contribute meaningfully to open-source security tooling
+- [ ] Achieve recognized bug bounty impact
+- [ ] Build a security company solving real-world problems
 
 ---
 
 <div align="center">
 
-## Research • Build • Secure
+*"Security is not about discovering vulnerabilities. It's about understanding systems deeply enough to defend and improve them."*
+
+**Research · Build · Secure**
 
 </div>
